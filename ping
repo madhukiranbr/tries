@@ -1,0 +1,21 @@
+qi5xbfao.qc4@20minutemail.it atusual
+
+
+AUTHORIZATION URL
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as/authorize
+TOKEN ENDPOINT
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as/token
+JWKS ENDPOINT
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as/jwks
+USERINFO ENDPOINT
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as/userinfo
+SIGNOFF ENDPOINT
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as/signoff
+OIDC DISCOVERY ENDPOINT
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as/.well-known/openid-configuration
+ISSUER
+https://auth.pingone.com/a19d05f8-b5e5-47a5-b92c-622005f9ae43/as
+CLIENT ID
+cf5fc6a3-f66a-49c5-8aa8-6efaff2bb4f8
+CLIENT SECRET
+8tZT_wm7o9K8YVzqsaYMT~71kVI3R5TazIs_55m2marokvAeTEN7Wca..5y~RbFW
