@@ -21,3 +21,26 @@ CLIENT ID
 cf5fc6a3-f66a-49c5-8aa8-6efaff2bb4f8
 CLIENT SECRET
 8tZT_wm7o9K8YVzqsaYMT~71kVI3R5TazIs_55m2marokvAeTEN7Wca..5y~RbFW
+
+
+```
+ 
+
+Why CNCF? 
+
+  
+
+1. Better resource efficiency lets you to run the same number of services on less servers 
+
+2. Improved resiliency and availability: despite failures of individual applications, and even data centers 
+
+3. Cloud native allows multi-cloud (switching between public clouds or running on multiple ones) and hybrid cloud (moving workloads between your data center and the public cloud) 
+
+4. Cloud native infrastructure enables higher development velocity – improving your services faster – with lower risk 
+
+5. Interactive landscape to group sandbox, incubating and graduated projects directly correlating with stability of a product. 
+
+6. Certification, trainings and partnerships for organization of all levels of adoption by vetted service providers 
+
+ 
+```
